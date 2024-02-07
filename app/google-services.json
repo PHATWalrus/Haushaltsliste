@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "201367077830",
+    "firebase_url": "https://kotlin-haushaltsliste-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kotlin-haushaltsliste",
+    "storage_bucket": "kotlin-haushaltsliste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201367077830:android:bafbebf9c5e4bc34a928c7",
+        "android_client_info": {
+          "package_name": "com.anon15683.haushaltsliste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL6wufM3iiPT4clBXFyBf3uE8V8kB3IZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
